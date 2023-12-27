@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  frontend dev coding dreams into pixels with a big smile 😊🚀</h3>
+<h3 align="left">👩‍💻  Frontend dev coding dreams into pixels with a big smile 😊🚀</h3>
 
 ###
 <p align="left" > 🎯 My goal is to Enjoy solving problems <br> 📚 I'm currently learning React<br> ⚡ Fun fact: Coding is the only job where you can be bitten by a bug and not need a doctor. 🐞💻<br> 📫 How to reach me: <a href = 'yawntiri33@gmial.com'> yawntiri33@gmail.com </a>,   <a href="https://twitter.com/NtiriYaw">twitter / X</a></p>
